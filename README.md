@@ -6,7 +6,7 @@ Jupyter Notebook script
 - Module 2: Data Wrangling
 - Module 3: Exploratory Data Analysis
 - Module 4: Model Development
--- Linear Regression
--- Multi Feature Linear Regression
--- Ridge Regression
+    - Linear Regression
+    - Multi Feature Linear Regression
+    - Ridge Regression
 - Module 5: Model Evaluation and Refinement
